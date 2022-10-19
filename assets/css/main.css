@@ -1,0 +1,97 @@
+html,
+body {
+  @apply bg-gray-900;
+  min-height: 100vh;
+}
+
+h1,
+.h1,
+.nuxt-content h1 {
+  @apply text-3xl font-semibold text-white mb-4;
+}
+
+h2,
+.h2,
+.nuxt-content h2 {
+  @apply text-2xl font-semibold text-white mb-4;
+}
+
+h3,
+.h3,
+.nuxt-content h3 {
+  @apply text-xl font-semibold text-white mb-4;
+}
+
+h4,
+.h4,
+.nuxt-content h4 {
+  @apply text-lg font-semibold text-white mb-4;
+}
+
+h5,
+.h5,
+.nuxt-content h5 {
+  @apply text-lg font-semibold text-white mb-4;
+}
+
+h6,
+.h6,
+.nuxt-content h6 {
+  @apply text-lg font-semibold text-white mb-4;
+}
+
+p,
+.nuxt-content p {
+  @apply mb-4 text-white;
+}
+
+.nuxt-content a {
+  @apply text-white underline;
+}
+
+.nuxt-content a:hover {
+  @apply text-white underline;
+}
+
+ul,
+.nuxt-content ul {
+  @apply mb-6;
+}
+
+ul li,
+.nuxt-content ul li {
+  @apply mb-2 list-disc list-outside text-white;
+}
+
+ol,
+.nuxt-content ol {
+  @apply mb-6;
+}
+
+ol li,
+.nuxt-content ol li {
+  @apply mb-2 list-decimal list-outside text-white;
+}
+
+img,
+.nuxt-content img {
+  @apply my-8;
+}
+
+blockquote,
+.nuxt-content blockquote {
+  @apply border-l-2 pl-2 py-2 border-gray-900 bg-gray-50 rounded-r-lg mb-4;
+}
+
+blockquote p,
+.nuxt-content blockquote p {
+  @apply mb-0;
+}
+
+.title {
+  @apply text-4xl text-white font-semibold mb-2;
+}
+
+.subtitle {
+  @apply text-4xl text-white font-semibold mb-8;
+}

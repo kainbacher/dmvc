@@ -1,13 +1,15 @@
 <template>
-  <main>
-    <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Nuxt — Tailwind — Netlify CMS</h1>
-      <h2 class="subtitle text-center">Boilerplate</h2>
-    </section>
-
-    <section class="mt-8">
-      <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest blog post</h3>
-      <posts post-type="blog" :amount="1" />
+  <main class="container mx-auto max-w-4xl py-16 flex justify-center items-center min-h-screen">
+    <section>
+      <h1 class="font-serif tracking-widest font-normal text-4xl">DVMC</h1>
+      <p>
+        DVMC AG<br />
+        Neuhofstrasse 21d<br />
+        6340 Baar / Schweiz<br />
+        <br />
+        <a href="mailto:jd@dvmc.ch" title="E-Mail an DVMC">E-Mail an DVMC</a><br />
+      </p>
     </section>
   </main>
 </template>
+
