@@ -1,7 +1,7 @@
 {
-  "name": "architekturinform",
+  "name": "dvmc",
   "version": "2.1.4",
-  "description": "Branner Gruppe GmbH",
+  "description": "DVMC",
   "author": "Roland Kainbacher, kainbacher.io",
   "scripts": {
     "dev": "nuxt",

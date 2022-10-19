@@ -1,5 +1,7 @@
 <template>
-  <main class="container mx-auto max-w-4xl py-16 flex justify-center items-center min-h-screen">
+  <main
+    class="container mx-auto max-w-4xl py-16 flex justify-center items-center min-h-screen"
+  >
     <section>
       <h1 class="font-serif tracking-widest font-normal text-4xl">DVMC</h1>
       <p>
@@ -12,4 +14,3 @@
     </section>
   </main>
 </template>
-
