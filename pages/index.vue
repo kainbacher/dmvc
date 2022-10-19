@@ -5,8 +5,12 @@
     <section class="max-w-md">
       <h1 class="font-serif tracking-widest font-normal text-6xl mb-8">DVMC</h1>
       <hr class="my-8 border-gray-800" />
+      <p class="text-gray-500">
+        DMVC bietet den Vertrieb, Verkauf, Beratung, Marketing, Organisation,
+        Kommunikation, Energiemanagement und die Vermarktung von Produkten aller Art an.
+      </p>
+      <hr class="my-8 border-gray-800" />
       <p class="text-gray-400 mb-8">
-        DVMC AG<br />
         <a
           href="https://www.google.com/maps/place/Lagerstrasse+4,+9200+Gossau,+Schweiz/@47.4112834,9.2726642,17z/data=!3m1!4b1!4m5!3m4!1s0x479ae0edb290623f:0xf8372034c32d432e!8m2!3d47.4112834!4d9.2748529"
           title="Open Google Maps"
@@ -41,10 +45,6 @@
         E-Mail
       </button>
       <hr class="my-8 border-gray-800" />
-      <p class="text-gray-500">
-        DMVC bietet den Vertrieb, Verkauf, Beratung, Marketing, Organisation,
-        Kommunikation, Energiemanagement und die Vermarktung von Produkten aller Art an.
-      </p>
     </section>
   </main>
 </template>
