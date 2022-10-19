@@ -53,12 +53,12 @@
 export default {
   head() {
     return {
-      title: "DVMC AG",
+      title: "DVMC",
       meta: [
         {
           hid: "description",
           name: "description",
-          content: "DVMC AG",
+          content: "DMVC bietet den Vertrieb, Verkauf, Beratung, Marketing, Organisation, Kommunikation, Energiemanagement und die Vermarktung von Produkten aller Art an.",
         },
       ],
     };
